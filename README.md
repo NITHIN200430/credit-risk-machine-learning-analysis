@@ -34,8 +34,7 @@ credit-risk-machine-learning-analysis/
 
 # Dataset 1 : Home Credit Default Risk
 
-Dataset Source:
-https://www.kaggle.com/competitions/home-credit-default-risk/data
+Dataset URL: https://huggingface.co/datasets/mohameddhameem/home-credit-default-risk
 
 ## Data Exploration
 
@@ -146,10 +145,9 @@ Top Important Features
 
 ---
 
-# Dataset 2 : DeFi Credit Scoring Dataset
+# Dataset 2: Credit Scoring Training Dataset
+Dataset URL: https://huggingface.co/datasets/spectrallabs/credit-scoring-training-dataset
 
-Dataset Source:
-https://huggingface.co/datasets/spectrallabs/credit-scoring-training-dataset
 
 ---
 
