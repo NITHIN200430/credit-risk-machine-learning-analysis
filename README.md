@@ -28,8 +28,8 @@ credit-risk-machine-learning-analysis/
 │
 ├── Dataset1_Home_Credit_Implementation.ipynb
 ├── Dataset2_DeFi_Credit_Implementation.ipynb
-├── datasets/
-├── images/
+├── Dataset_1_Result.png
+├── Dataset_2_Result.png
 └── README.md
 ```
 
