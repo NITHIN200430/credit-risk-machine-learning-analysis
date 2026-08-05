@@ -312,5 +312,3 @@ Top Important Features
 # M NITHIN SAI CHOWDARY
 
 **Credit Risk Machine Learning Analysis**
-
-Comparative study of traditional banking credit risk and decentralized finance (DeFi) credit scoring using machine learning.
